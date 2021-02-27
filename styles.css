@@ -11,3 +11,8 @@
   border-width: 0;
   font-size: 20px;
 }
+
+#searchButton {
+  border-width: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
