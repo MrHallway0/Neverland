@@ -1,6 +1,6 @@
 #searchDiv {
   height: 100%;
-  line-height: 200px;
+  line-height: 100%;
   border: 3px solid green;
   text-align: center;
 }
