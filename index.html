@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<!-- 
+Neverland
+https://github.com/MrHallway0/Neverland 
+-->
 
+
+<html>
+  <head>
+    <!-- META DATA -->
+    <title>Neverland</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- JavaScript -->
+    <script>
+      function search() {
+        var query = document.getElementById("search").value;
+        var url = "https://www.ecosia.org/search?q=";
+        location.replace(url + query);
+      }
+    </script>
+    
+    <!-- Style -->
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <input id=search><button onClick=search()></button>
+  </body>
+</html>
