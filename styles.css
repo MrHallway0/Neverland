@@ -6,5 +6,8 @@
 }
 
 #search {
-  
+  padding: 5px;
+  border-radius: 10px;
+  border-width: 0;
+  font-size: 20px;
 }
