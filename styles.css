@@ -1,6 +1,7 @@
 body {
   background: url(https://images.unsplash.com/photo-1614019467115-26abe5a137a6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
   background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
 }
 #searchDiv {
   height: 100vh;
