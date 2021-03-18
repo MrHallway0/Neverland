@@ -30,7 +30,11 @@ body {
 }
 
 #att {
-  color: white;
+  color: black;
+}
+
+a#att {
+  color: black;
 }
 
 #newsDiv {
